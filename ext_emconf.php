@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "phpunit_cli".
 #
-# Auto generated 30-05-2012 22:00
+# Auto generated 30-05-2012 22:22
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'CLI PHPUnit TYPO3 testing',
 	'category' => 'misc',
 	'shy' => 0,
-	'version' => '0.1.0',
+	'version' => '0.1.1',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -47,7 +47,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'suggests' => array(
 		'phpunit' => '',
 	),
-	'_md5_values_when_last_written' => 'a:4:{s:12:"ext_icon.gif";s:4:"b280";s:17:"ext_localconf.php";s:4:"2105";s:23:"Classes/CLI/PHPUnit.php";s:4:"9ad0";s:26:"Classes/TextUI/Command.php";s:4:"1e45";}',
+	'_md5_values_when_last_written' => 'a:4:{s:12:"ext_icon.gif";s:4:"b280";s:17:"ext_localconf.php";s:4:"2105";s:23:"Classes/CLI/PHPUnit.php";s:4:"9ad0";s:26:"Classes/TextUI/Command.php";s:4:"6a9a";}',
 );
 
 ?>
